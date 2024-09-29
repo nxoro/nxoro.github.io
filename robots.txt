@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nxoro.github.io/BNR/sitemap.BNR.gz
